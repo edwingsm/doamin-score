@@ -1,6 +1,5 @@
 package ie.newwhip.social.doamin.score.model;
 
-import ie.newwhip.social.doamin.score.KeyType;
 import lombok.Data;
 
 import java.io.Serializable;

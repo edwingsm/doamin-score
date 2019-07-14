@@ -1,4 +1,4 @@
-package ie.newwhip.social.doamin.score;
+package ie.newwhip.social.doamin.score.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.format.support.FormattingConversionService;

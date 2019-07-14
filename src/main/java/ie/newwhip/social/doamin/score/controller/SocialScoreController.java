@@ -1,6 +1,6 @@
 package ie.newwhip.social.doamin.score.controller;
 
-import ie.newwhip.social.doamin.score.KeyType;
+import ie.newwhip.social.doamin.score.model.KeyType;
 import ie.newwhip.social.doamin.score.model.SocialScoreRequest;
 import ie.newwhip.social.doamin.score.model.SocialScoreUpdateRequest;
 import ie.newwhip.social.doamin.score.mongodb.SocialScoreDBO;

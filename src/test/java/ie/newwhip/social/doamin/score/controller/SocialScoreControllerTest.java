@@ -3,7 +3,7 @@ package ie.newwhip.social.doamin.score.controller;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 import com.fasterxml.jackson.databind.SerializationFeature;
-import ie.newwhip.social.doamin.score.KeyType;
+import ie.newwhip.social.doamin.score.model.KeyType;
 import ie.newwhip.social.doamin.score.model.SocialScoreReport;
 import ie.newwhip.social.doamin.score.model.SocialScoreRequest;
 import ie.newwhip.social.doamin.score.model.SocialScoreUpdateRequest;

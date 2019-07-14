@@ -1,5 +1,6 @@
-package ie.newwhip.social.doamin.score;
+package ie.newwhip.social.doamin.score.config;
 
+import ie.newwhip.social.doamin.score.model.KeyType;
 import org.springframework.core.convert.converter.Converter;
 
 //@Component
